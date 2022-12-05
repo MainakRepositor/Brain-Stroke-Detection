@@ -1,12 +1,11 @@
-# Breast Cancer Predictor
+# Brain Stroke Predictor
 
-![home](https://user-images.githubusercontent.com/64016811/200050898-b7e0a3f7-acd9-4075-8e3b-a0f1a8a47af3.png)
-
+![home](https://user-images.githubusercontent.com/64016811/205672233-8ab97d26-2b64-4b57-a0e6-6e6ed5fc3b4a.jpeg)
 
 
 ### Problem : 
 
-Breast Cancer is a chronic health condition that affects how your heart pumps blood throughout your body. It is not a disease but a phenomena, where there are sudden cardiac arrests. Having healthy, low-cholesterol food, and being active can really help in reducing the chances of cardiac arrest. 
+Damage to the brain from interruption of its blood supply. A stroke is a medical emergency. Symptoms of stroke include trouble walking, speaking and understanding, as well as paralysis or numbness of the face, arm or leg. Early treatment with medication like tPA (clot buster) can minimise brain damage. Other treatments focus on limiting complications and preventing additional strokes.
 
 ### Solution:
 
@@ -25,9 +24,9 @@ Building an application that can predict the occurrence of a cardiac arrest or t
 |   └─── data.py
 |   └─── predict.py
 |   └─── visualize.py
-|   └─── about.py
 └───__pycache__
 └─── main.py
+└─── BS.csv
 └─── web_functions.py
 └─── requirements.txt
 └─── Procfile
